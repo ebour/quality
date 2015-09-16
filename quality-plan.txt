@@ -1,0 +1,28 @@
+The objectives are:
+
+    - product features & product documentation up to date
+    - usability & user experience
+    - performance
+    - security
+    - ...
+    
+Procedures for quality code production are:
+
+    - run sonar locally and fix all high issues before commiting on the trunk
+    - ...
+
+Procedures (or phases) for quality product validation and verification:
+
+    - requirements are checked three times to ensure proper comprehension before implementation begins
+    - unit, integration tests checks that the code does what he was written for
+    - acceptance tests checks that the right software has been built
+    - release is performed when the done criteria is met (see: Done criteria section)
+    - ...
+    
+Achievement of the quality objectives:
+
+    - reduces bugs found in production (Starting with 100 in September 2011)
+    - more bugs found before going in production (avg of 1 per iteration in September 2011)
+    
+Other resources or actions necessary to meet the objectives:
+
