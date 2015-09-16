@@ -9,6 +9,7 @@ The objectives are:
 Procedures for quality code production are:
 
     - run sonar locally and fix all high issues before commiting on the trunk
+    - peer review are performed before commiting code on the trunk
     - ...
 
 Procedures (or phases) for quality product validation and verification:
@@ -26,3 +27,4 @@ Achievement of the quality objectives:
     
 Other resources or actions necessary to meet the objectives:
 
+    - install Sonar and Jenkins and have daily basis reporting on code quality
